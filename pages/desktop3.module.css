@@ -1,0 +1,187 @@
+.desktop3Child,
+.desktop3Item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+}
+.desktop3Child {
+  background: linear-gradient(
+    -0.69deg,
+    rgba(80, 7, 96, 0.14) 86.98%,
+    rgba(80, 7, 96, 0)
+  );
+  height: 2723px;
+  display: none;
+}
+.desktop3Item {
+  background: linear-gradient(
+    -0.69deg,
+    rgba(78, 16, 92, 0.54),
+    rgba(80, 7, 96, 0)
+  );
+  height: 2012px;
+}
+.create,
+.drops,
+.explore {
+  position: absolute;
+  top: 46px;
+  color: inherit;
+  text-decoration: none;
+}
+.explore {
+  left: 1043px;
+  cursor: pointer;
+}
+.create,
+.drops {
+  left: 1162px;
+}
+.drops {
+  left: 1278px;
+  cursor: pointer;
+}
+.adonisss1Icon,
+.header {
+  position: absolute;
+  top: 0;
+  height: 167px;
+}
+.adonisss1Icon {
+  left: 0;
+  width: 226px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.header {
+  left: 44px;
+  width: 1336px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-gt-walsheim-pro);
+}
+.headerDividerIcon {
+  position: absolute;
+  top: 126.5px;
+  left: 0;
+  width: 1440px;
+  height: 2px;
+}
+.createYourNft {
+  margin: 0;
+  position: absolute;
+  top: 170px;
+  left: 51px;
+  font-size: var(--font-size-33xl);
+  font-weight: 500;
+  font-family: inherit;
+}
+.imageVideoAudio {
+  margin: 0;
+}
+.fileTypesSupported {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+  font-weight: 300;
+}
+.imageVideoAudioContainer {
+  margin: 0;
+  position: absolute;
+  top: 335px;
+  left: 51px;
+  display: inline-block;
+  width: 920px;
+  height: 74px;
+  font-size: inherit;
+  font-family: inherit;
+}
+.nftName {
+  top: 846px;
+  font-weight: 400;
+}
+.addDescription,
+.enterPriceLimitContainer,
+.nftName {
+  margin: 0;
+  position: absolute;
+  left: 51px;
+  font-size: inherit;
+  font-family: inherit;
+}
+.addDescription {
+  top: 1028px;
+  font-weight: 400;
+}
+.enterPriceLimitContainer {
+  top: 1438px;
+}
+.searchBar {
+  background-color: transparent;
+  top: 912px;
+  height: 63px;
+}
+.searchBar,
+.searchBar1,
+.searchBar2,
+.searchBar3 {
+  position: absolute;
+  left: 48px;
+  border-radius: var(--br-9xl-5);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.25);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1030px;
+}
+.searchBar1 {
+  background-color: transparent;
+  top: 1094px;
+  height: 291px;
+}
+.searchBar2,
+.searchBar3 {
+  top: 462px;
+  height: 331px;
+}
+.searchBar3 {
+  background-color: transparent;
+  top: 1528px;
+  height: 63px;
+}
+.create1,
+.searchBar4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.create1 {
+  top: 15px;
+  left: 84px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-gt-walsheim-pro);
+  color: var(--color-white);
+  text-align: left;
+}
+.searchBarParent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1761px;
+  left: 598px;
+  width: 244px;
+  height: 57px;
+}
+.desktop3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2012px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-gt-walsheim-pro);
+}

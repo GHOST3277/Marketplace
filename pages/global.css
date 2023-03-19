@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+@font-face {
+  font-family: "GT Walsheim Pro";
+  src: url("/public/GTWalsheimPro-Light.ttf");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "GT Walsheim Pro";
+  src: url("/public/GTWalsheimPro-Regular.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "GT Walsheim Pro";
+  src: url("/public/GTWalsheimPro-Black.ttf");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "GT Walsheim Pro";
+  src: url("/public/GTWalsheimPro-Bold.ttf");
+  font-weight: 700;
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-gt-walsheim-pro: "GT Walsheim Pro";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-13xl: 32px;
+  --font-size-33xl: 52px;
+  --font-size-3xl: 22px;
+  --font-size-23xl: 42px;
+  --font-size-xl: 20px;
+  --font-size-21xl: 40px;
+  --font-size-7xl: 26px;
+  --font-size-lg: 18px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-purple: #500760;
+  --color-thistle: #baa4be;
+  --color-gray: #797979;
+  --color-gainsboro-100: #d9d9d9;
+
+  /* border radiuses */
+  --br-9xl-5: 28.5px;
+  --br-36xl: 55px;
+  --br-17xl: 36px;
+  --br-33xl: 52px;
+}

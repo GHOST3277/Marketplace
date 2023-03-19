@@ -1,0 +1,153 @@
+.desktop2Child,
+.headerDividerIcon {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.desktop2Child {
+  top: 0;
+  height: 2723px;
+  object-fit: cover;
+}
+.headerDividerIcon {
+  top: 126.5px;
+  height: 2px;
+}
+.explore {
+  margin: 0;
+  position: absolute;
+  top: 170px;
+  left: 51px;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.dropsTabChild,
+.dropsTabChild1,
+.dropsTabChild2,
+.dropsTabInner,
+.dropsTabItem,
+.rectangleCanvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-33xl);
+  background-color: var(--color-thistle);
+  filter: blur(40px);
+  width: 360px;
+  height: 479px;
+}
+.dropsTabChild1,
+.dropsTabChild2,
+.dropsTabInner,
+.dropsTabItem,
+.rectangleCanvas {
+  left: 491px;
+}
+.dropsTabChild1,
+.dropsTabChild2,
+.dropsTabInner,
+.rectangleCanvas {
+  left: 978px;
+}
+.dropsTabChild1,
+.dropsTabChild2,
+.rectangleCanvas {
+  top: 556px;
+}
+.dropsTabChild1,
+.dropsTabChild2 {
+  left: 485px;
+}
+.dropsTabChild2 {
+  left: 0;
+}
+.adonisss1Icon,
+.dropsTab,
+.dropsTab1 {
+  position: absolute;
+  top: 378px;
+  left: 42px;
+  width: 1338px;
+  height: 1035px;
+}
+.adonisss1Icon,
+.dropsTab1 {
+  top: 1511px;
+  left: 51px;
+}
+.adonisss1Icon {
+  top: 0;
+  left: 0;
+  width: 226px;
+  height: 167px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.create,
+.explore1 {
+  position: absolute;
+  top: 46px;
+  left: 830px;
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+.create {
+  left: 949px;
+}
+.drops,
+.groupChild {
+  position: absolute;
+  top: 46px;
+  left: 1065px;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+}
+.connectWallet,
+.rectangleParent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.connectWallet {
+  top: 16px;
+  left: 40px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-gt-walsheim-pro);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.rectangleParent {
+  top: 32px;
+  left: 1170px;
+  width: 205px;
+  height: 53px;
+}
+.desktop2,
+.header {
+  text-align: left;
+  color: var(--color-black);
+  font-family: var(--font-gt-walsheim-pro);
+}
+.header {
+  position: absolute;
+  top: 0;
+  left: 44px;
+  width: 1375px;
+  height: 167px;
+  font-size: var(--font-size-3xl);
+}
+.desktop2 {
+  position: relative;
+  background-color: #e7e7e7;
+  width: 100%;
+  height: 2723px;
+  overflow: hidden;
+  font-size: var(--font-size-33xl);
+}
